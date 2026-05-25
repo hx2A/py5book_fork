@@ -93,7 +93,6 @@ to reach out are:
 
 * github [discussions](https://github.com/py5coding/py5generator/discussions) and [issues](https://github.com/py5coding/py5generator/issues)
 * Mastodon <a rel="me" href="https://fosstodon.org/@py5coding">@py5coding@fosstodon.org</a>
-* twitter [@py5coding](https://twitter.com/py5coding)
 * [processing foundation discourse](https://discourse.processing.org/)
 
 [processing]: https://github.com/benfry/processing4

@@ -354,6 +354,7 @@
 * [intercept_escape()](sketch_intercept_escape)
 * [is_dead](sketch_is_dead)
 * [is_dead_from_error](sketch_is_dead_from_error)
+* [is_looping](sketch_is_looping)
 * [is_ready](sketch_is_ready)
 * [is_running](sketch_is_running)
 * [loop()](sketch_loop)
